@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+
+.btn-info{
+    font-weight: bold;
+    font-family: italic;
+    font-size: large;
+}
